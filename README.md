@@ -1,2 +1,2 @@
 # SynDelay 
-A repo for baseline classifiers and dataset used in the paper: SynDelay: A Synthetic Dataset for Delivery Delay Prediction
+A repo that includes the dataset used in the delivery delay prediction data challenge in MIM2025 and a few baseline predictors developed by the authors. 
