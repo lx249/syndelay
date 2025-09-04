@@ -1,4 +1,16 @@
-# SynDelay: Synthetic Delivery Delay Dataset
-A repo that includes the dataset used in the delivery delay prediction data challenge in MIM2025 and a few baseline predictors developed by the authors. 
+# SynDelay: A Synthetic Dataset for Delivery Delay Prediction
 
-For any questions, please feel free to contact Dr Limign Xu via lx249 at cam [dot] ac [dot] uk.
+A repo includes a synthetic dataset for delivery delay prediction data challege hosted in [MIM 2025](https://conferences.ifac-control.org/mim2025/data-challenge/). 
+
+## How to Cite
+If you use SynDelay in your research, please cite the following paper:
+
+> Liming Xu, Yunbo Long, Alexandra Brintrup. SynDelay: A Synthetic Dataset for Delivery Delay Prediction, 2025.
+
+```bibtex
+@article{xu2025simmd,
+  title={SynDelay: A Synthetic Dataset for Delivery Delay Prediction},
+  author={Xu, Liming and Long, Yunbo and Brintrup, Alexandra},
+  year={2025}
+}
+
